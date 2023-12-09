@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/upload/upload",
+    "pages/Person/Person",
+    "pages/Detail/Detail",
+    "pages/keyPage/keyPage"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "医疗文献查看器",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "selectedColor": "#D81E06",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/home.png",
+        "selectedIconPath": "static/home-active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/upload/upload",
+        "iconPath": "static/upload.png",
+        "selectedIconPath": "static/upload-active.png",
+        "text": "上传"
+      },
+      {
+        "pagePath": "pages/Person/Person",
+        "iconPath": "static/person.png",
+        "selectedIconPath": "static/person-active.png",
+        "text": "个人"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

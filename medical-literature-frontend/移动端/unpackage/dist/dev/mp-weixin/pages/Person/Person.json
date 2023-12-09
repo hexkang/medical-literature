@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "login": "/pages/Person/login",
+    "register": "/pages/Person/register",
+    "individual": "/pages/Person/individual",
+    "findpass": "/pages/Person/findPass"
+  }
+}

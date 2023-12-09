@@ -1,0 +1,1 @@
+<view class="lsj-file data-v-8724a0b6" style="{{$root.s0}}"><view data-ref="lsj" data-event-opts="{{[['tap',[['onClick',['$event']]]]]}}" class="hFile data-v-8724a0b6 vue-ref" style="{{$root.s1}}" bindtap="__e"><block wx:if="{{$slots.default}}"><slot></slot></block><block wx:else><view class="defview data-v-8724a0b6" style="{{$root.s2}}">附件上传</view></block></view></view>

@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "filePath.root",
+      "type": "java.lang.String",
+      "description": "Description for filePath.root."
+    },
+    {
+      "name": "msgPath.root",
+      "type": "java.lang.String",
+      "description": "Description for msgPath.root."
+    }
+  ] }

@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "ADR";
+    src: url('./Alimama_DongFangDaKai_Regular.woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "KT";
+    src: url('./SanJiKaiShu-2.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
